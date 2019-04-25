@@ -1,4 +1,11 @@
-
+#######Hello, welcome to Qomo indoor temperature and humidity control detection project####
+#####which is based on Anduino single chip microcomputer.####
+####The data communication mode is bluetooth hc-05####
+####and the mobile terminal is AndroidAPP####
+#
+#
+#
+#
 #include <DHT.h>
 #include <SoftwareSerial.h>
 SoftwareSerial mySerial(8,9);//自定义Rx :8   Tx:9
