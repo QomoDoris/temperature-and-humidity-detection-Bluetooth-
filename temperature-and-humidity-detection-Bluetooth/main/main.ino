@@ -2,8 +2,8 @@
 #####which is based on Anduino single chip microcomputer.####
 ####The data communication mode is bluetooth hc-05####
 ####and the mobile terminal is AndroidAPP####
-#
-#
+####The author is Qomo####
+####It was written on March 11, 2019####
 #
 #
 #include <DHT.h>
