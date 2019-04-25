@@ -1,0 +1,2 @@
+# temperature-and-humidity-detection-Bluetooth-
+该项目是基于anduino的室内温湿度检测，通过传感器采集数据并通过蓝牙通信方式传输到的Android手机APP显示并通过手机APP控制加湿器的工作。
